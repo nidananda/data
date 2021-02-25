@@ -2,7 +2,7 @@
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         OpenFileDialog1.InitialDirectory = "Training"
         OpenFileDialog1.Title = "Input"
-        OpenFileDialog1.Filter = "PNG |*.PNG|BMP|*.BMP"
+        OpenFileDialog1.Filter = "PNG|*.PNG|BMP|*.BMP"
         If OpenFileDialog1.ShowDialog() = Windows.Forms.DialogResult.OK Then
             PictureBox1.Image = Image.FromFile(OpenFileDialog1.FileName)
 

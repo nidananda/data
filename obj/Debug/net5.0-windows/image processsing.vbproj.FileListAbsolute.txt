@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\deteksi'\image procesing\bin\Debug\net5.0-windows\image processsing.exe
+C:\Users\user\source\repos\deteksi'\image procesing\bin\Debug\net5.0-windows\image processsing.deps.json
+C:\Users\user\source\repos\deteksi'\image procesing\bin\Debug\net5.0-windows\image processsing.runtimeconfig.json
+C:\Users\user\source\repos\deteksi'\image procesing\bin\Debug\net5.0-windows\image processsing.runtimeconfig.dev.json
+C:\Users\user\source\repos\deteksi'\image procesing\bin\Debug\net5.0-windows\image processsing.dll
+C:\Users\user\source\repos\deteksi'\image procesing\bin\Debug\net5.0-windows\ref\image processsing.dll
+C:\Users\user\source\repos\deteksi'\image procesing\bin\Debug\net5.0-windows\image processsing.pdb
+C:\Users\user\source\repos\deteksi'\image procesing\obj\Debug\net5.0-windows\image processsing.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\deteksi'\image procesing\obj\Debug\net5.0-windows\imageprocessing_.Form1.resources
+C:\Users\user\source\repos\deteksi'\image procesing\obj\Debug\net5.0-windows\imageprocessing_.Resources.resources
+C:\Users\user\source\repos\deteksi'\image procesing\obj\Debug\net5.0-windows\imageprocessing_.UserControl1.resources
+C:\Users\user\source\repos\deteksi'\image procesing\obj\Debug\net5.0-windows\image processsing.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\deteksi'\image procesing\obj\Debug\net5.0-windows\image processsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\deteksi'\image procesing\obj\Debug\net5.0-windows\image processsing.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\deteksi'\image procesing\obj\Debug\net5.0-windows\image processsing.AssemblyInfo.vb
+C:\Users\user\source\repos\deteksi'\image procesing\obj\Debug\net5.0-windows\image processsing.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\deteksi'\image procesing\obj\Debug\net5.0-windows\image processsing.dll
+C:\Users\user\source\repos\deteksi'\image procesing\obj\Debug\net5.0-windows\ref\image processsing.dll
+C:\Users\user\source\repos\deteksi'\image procesing\obj\Debug\net5.0-windows\image processsing.pdb
+C:\Users\user\source\repos\deteksi'\image procesing\obj\Debug\net5.0-windows\image processsing.genruntimeconfig.cache
